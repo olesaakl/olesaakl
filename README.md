@@ -7,11 +7,9 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&duration=1&pause=999999&color=F75C7E&center=true&vCenter=true&width=500&lines=Angels+have+pink+hair" alt="Handwriting" />
-</p>
-
-<br>
-<br>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&size=32&duration=1&pause=999999&color=F75C7E&center=true&vCenter=true&width=500&lines=What's+on+the+head+is+in+the+head" alt="Handwriting" />
+  </p>
+<br> 
 
 ## 🛠️ Мои навыки
 
